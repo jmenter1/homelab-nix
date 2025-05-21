@@ -1,0 +1,11 @@
+.env
+.secrets
+*.key
+*.crt
+*.pem
+*.enc.yaml
+*.secret.yaml
+*.kubeconfig
+kubeconfig
+secrets/
+private/
